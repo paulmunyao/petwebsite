@@ -8,11 +8,9 @@
     width: 170px;
 }
 .pets{
-    height: 300px;
-   
+    height: 350px;
+    background-image: url("images/jj.jpeg");
 }
-.synopsis{
-
-    background-image: url("images/non.jpeg");
-    background-repeat: no-repeat;
+.color{
+    background-color: rgb(255, 253, 253);
 }
