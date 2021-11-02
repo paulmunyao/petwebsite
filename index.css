@@ -1,11 +1,12 @@
 .logo{
-     height: 200px;
+     height: 250px;
 }
 .img{
     position: relative;
     align-content: center;
     height: 190px;
     width: 170px;
+    
 }
 .pets{
     height: 350px;
@@ -13,4 +14,18 @@
 }
 .color{
     background-color: rgb(255, 253, 253);
+}
+.bot{
+
+    list-style-type: none;
+    margin: 15px;
+    float: right;
+    display: flex;
+    position: relative;
+    text-align: center;
+    /* display: inline-block;
+     */
+     text-decoration: none;
+
+    
 }
