@@ -4,10 +4,15 @@
 .img{
     position: relative;
     align-content: center;
-    height: 1900px;
+    height: 190px;
     width: 170px;
 }
 .pets{
     height: 300px;
    
+}
+.synopsis{
+
+    background-image: url("images/non.jpeg");
+    background-repeat: no-repeat;
 }
