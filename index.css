@@ -1,5 +1,13 @@
+body{
+
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
 .logo{
      height: 250px;
+     background-color: rgb(255, 255, 255);
 }
 .img{
     position: relative;
@@ -13,7 +21,9 @@
     background-image: url("images/jj.jpeg");
 }
 .color{
-    background-color: rgb(255, 253, 253);
+    background-color: rgb(114, 39, 39);
+  height: 1400px;
+
 }
 .bot{
 
@@ -28,4 +38,9 @@
      text-decoration: none;
 
     
+}
+#apo{
+    float: right;
+    padding: 10px;
+
 }
