@@ -1,5 +1,5 @@
 IP1
-Date, 31/10/2021
+Date, 2/11/2021
 By Paul Munyau and Joseph Kamore Wairimu.
 description
 This project aim at designing a website to learn more about dogs.
